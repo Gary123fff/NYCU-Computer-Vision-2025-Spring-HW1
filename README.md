@@ -38,6 +38,7 @@ The model is designed to improve generalization by utilizing smart data augmenta
 ![Alt Text](best_model_v8.png)
 
 ### Performance
+![Alt Text](per.png)
 |                  | Accuracy(%)                                         |
 |------------------|-----------------------------------------------------|
 | Validation       | 92                                                  |

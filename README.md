@@ -35,4 +35,4 @@ The model is designed to improve generalization by utilizing smart data augmenta
 ## How to install
 
 ## Performance snapshot
-![Alt Text](path/to/your/image.png)
+![Alt Text](best_model_v8.png)

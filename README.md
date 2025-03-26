@@ -72,8 +72,7 @@ NYCU-Computer-Vision-2025-Spring-HW1
 .
 ```
 4. Train and test
-if you want to choose train or test, you can change the parameter in main.py.
-And call:
+if you want to choose train or test, you can change the parameter in main.py and call:
 ```
 python main.py
 ```

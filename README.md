@@ -32,3 +32,5 @@ This repository contains an image classification model built using the pretraine
  *Goal*
 
 The model is designed to improve generalization by utilizing smart data augmentation strategies, dynamic learning rate adjustment, and handling class imbalance through Focal Loss. These techniques combine to create a robust image classification model that performs well on challenging datasets.
+## How to install
+##Performance snapshot

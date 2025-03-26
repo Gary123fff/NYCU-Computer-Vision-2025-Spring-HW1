@@ -1,5 +1,6 @@
 # NYCU-Computer-Vision-2025-Spring-HW1
-Student ID: 313551139 \n
+Student ID: 313551139 
+
 Name: 陳冠豪
 ## Introduction
 # Image Classification Model using ResNeXt-101_64x4d

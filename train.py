@@ -165,7 +165,7 @@ def main():
     criterion = create_combined_criterion
 
     train_model(model, train_loader, val_loader, criterion,
-                epochs=100, save_path='./improved_models2')
+                epochs=1000, save_path='./improved_models')
 
 
 if __name__ == '__main__':

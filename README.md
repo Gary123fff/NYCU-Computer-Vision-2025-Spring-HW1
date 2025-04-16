@@ -82,5 +82,5 @@ python main.py
 ![Alt Text](best_model_v8.png)
 
 ### Performance
-![Alt Text](result.png)
+![Alt Text](per.png)
 

@@ -82,8 +82,5 @@ python main.py
 ![Alt Text](best_model_v8.png)
 
 ### Performance
-![Alt Text](per.png)
-|                  | Accuracy(%)                                         |
-|------------------|-----------------------------------------------------|
-| Validation       | 92                                                  |
-| Public Test      | 94                                                  |
+![Alt Text](result.png)
+

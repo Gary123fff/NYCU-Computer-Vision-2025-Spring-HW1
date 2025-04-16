@@ -83,4 +83,7 @@ python main.py
 
 ### Performance
 ![Alt Text](per.png)
-
+|                  | Accuracy(%)                                         |
+|------------------|-----------------------------------------------------|
+| Validation       | 92                                                  |
+| Public Test      | 94                                                  |
